@@ -8,6 +8,7 @@ public class BenjApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(BenjApplication.class, args);
+		System.out.println("Benj Application started");
 	}
 
 }
